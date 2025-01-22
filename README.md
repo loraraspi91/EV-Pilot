@@ -1,9 +1,12 @@
 # Smart EV-Pilot
 Pilot your EV Wallbox via WiFi (compliant with all wallbox)
+Piloter VOTRE wallbox via Wifi (compatible avec toutes les wallbox)
 
-Ce module vous permet de pilotez votre wallbox via une interface WEB embarqué mais aussi grace à son API REST et MQTT.
+Ce module vous permet de pilotez <b>VOTRE</b> wallbox via une interface WEB embarqué mais aussi grace à son API REST et MQTT.
+- Compatible avec toutes les wallbox VE.
 
 Vous pouvez donc pilotez votre wallbox avec Home Assitant ou un routeur Solaire (comme le Smart PV-Router www.smartelectromation.com)
+<br>
 
 > Smart EV Pilot: Le module Smart EV-Pilot s'intégre dans votre wallbox ou à ses cotés. 
 - Une charge manuelle de votre Vehicule electrique (la puissance est spécifiée en Watt, et non en Ampère)
