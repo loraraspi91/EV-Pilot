@@ -1,4 +1,4 @@
-# EV-Pilot
+# Smart EV-Pilot
 Pilot your EV Wallbox via WiFi (compliant with all wallbox)
 
 Ce module vous permet de pilotez votre wallbox via une interface WEB embarqué mais aussi grace à son API REST et MQTT.
