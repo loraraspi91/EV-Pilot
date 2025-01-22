@@ -2,6 +2,8 @@
 Pilot your EV Wallbox via WiFi (compliant with all wallbox)
 Piloter VOTRE wallbox via Wifi (compatible avec toutes les wallbox)
 
+> _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
+
 Ce module vous permet de pilotez <b>VOTRE</b> wallbox via une interface WEB embarqué mais aussi grace à son API REST et MQTT.
 - Compatible avec toutes les wallbox VE.
 
