@@ -35,7 +35,7 @@ Vous pouvez donc pilotez votre wallbox avec Home Assitant ou un routeur Solaire 
 
 
 - Routage Temps-réel avec le Smart PV-Router: Charger gratuitement votre VE 
-<img src="https://github.com/loraraspi91/EV-Pilot/blob/main/router.jpg" alt="Smart PV-Router" width="400" height="450">
+<img src="https://github.com/loraraspi91/EV-Pilot/blob/main/routeur.jpg" alt="Smart PV-Router" width="400" height="450">
 
 - Le module: à intégrer dans votre box ou à placer à ses cotés.
 <img src="https://github.com/loraraspi91/EV-Pilot/blob/main/coffret.jpg" alt="Smart PV-Router" width="600" height="450">
