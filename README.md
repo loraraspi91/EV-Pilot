@@ -23,4 +23,12 @@ Vous pouvez donc pilotez votre wallbox avec Home Assitant ou un routeur Solaire 
 - desactivée la prise de controle de votre wallbox par le module (le module n'agit plus sur la wallbox)
 - Mode par défaut en cas de coupure de WiFi (sécurité)
 
+ *** Interface web embarquée:
+ - Status du module
+<img src="https://github.com/loraraspi91/EV-Pilot/blob/main/MainScreen.jpg" alt="Smart PV-Router" width="400" height="450">
 
+- Controle du module: Changement de modes, Parametres des modes automatiques et Manuel;
+<img src="https://github.com/loraraspi91/EV-Pilot/blob/main/Control.jpg" alt="Smart PV-Router" width="400" height="450">
+
+- Le module: à intégrer dans votre box ou à placer à ses cotés.
+<img src="https://github.com/loraraspi91/EV-Pilot/blob/main/coffret.jpg" alt="Smart PV-Router" width="600" height="450">
