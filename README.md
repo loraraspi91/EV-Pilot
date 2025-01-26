@@ -41,3 +41,6 @@ Vous pouvez donc pilotez votre wallbox avec Home Assitant ou un routeur Solaire 
 
 - Le module: à intégrer dans votre box ou à placer à ses cotés.
 <img src="https://github.com/loraraspi91/EV-Pilot/blob/main/coffret.jpg" alt="Smart PV-Router" width="600" height="450">
+
+- Banchement du module sur un Charger EVSE (Wallbox) classique
+<img src="https://github.com/loraraspi91/EV-Pilot/blob/main/cablage.jpg" alt="Smart PV-Router" width="600" height="450">
