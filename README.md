@@ -1,5 +1,5 @@
 # Smart EV-Pilot
-Pilot your EV Wallbox via WiFi (compliant with all wallbox)
+Pilot your EVSE Wallbox via WiFi (compliant with all wallbox)
 Piloter VOTRE wallbox via Wifi (compatible avec toutes les wallbox)
 
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
