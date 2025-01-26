@@ -11,9 +11,9 @@ Vous pouvez donc pilotez votre wallbox avec Home Assitant ou un routeur Solaire 
 <br>
 
 > Smart EV Pilot: Le module Smart EV-Pilot s'intégre dans votre wallbox ou à ses cotés. 
-- Une charge manuelle de votre Vehicule electrique (la puissance est spécifiée en Watt, et non en Ampère)
+- Une charge manuelle de votre Vehicule electrique (la puissance est spécifiée en Watt, et non en Ampère, toutes les puissances sont possibles)
 - Pilotez votre wallbox via votre domotique.
-- Via le Smart PV-Router assure le routage de votre surplus solaire en journée 
+- Avec le Smart PV-Router, Routez votre surplus solaire en journée vers votre Véhicule Electrique.
   
 *** Charge programmable (heure de démarrage, durée de charge et puissance)
 
